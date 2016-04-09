@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EB4767D1-6B14-21F9-A591-AE91D7D8BE37}") = "PresentationSimulator", "Assembly-CSharp.csproj", "{B63700F4-42FE-B106-A754-6D369DDC9F3E}"
+EndProject
+Project("{EB4767D1-6B14-21F9-A591-AE91D7D8BE37}") = "PresentationSimulator", "Assembly-CSharp-Editor.csproj", "{F6585FAA-EA21-DE7E-EA77-89DCC1B61096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63700F4-42FE-B106-A754-6D369DDC9F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63700F4-42FE-B106-A754-6D369DDC9F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63700F4-42FE-B106-A754-6D369DDC9F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63700F4-42FE-B106-A754-6D369DDC9F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6585FAA-EA21-DE7E-EA77-89DCC1B61096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6585FAA-EA21-DE7E-EA77-89DCC1B61096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6585FAA-EA21-DE7E-EA77-89DCC1B61096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6585FAA-EA21-DE7E-EA77-89DCC1B61096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
